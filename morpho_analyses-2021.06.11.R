@@ -1,7 +1,7 @@
 ##########################################################################################
 # R SCRIPT FOR MORPHOMETRIC ANALYSES (having snakes in mind...)
-# version 2021.06.11 (reduced from Barbo et al., 2021 - Systematics and Biodiversity)
-# Designed to analyze data for Barbo et al., 2021 (Canadian Journal of Zoology)
+# version 2021.06.11 (reduced from Barbo et al., 2022 - Systematics and Biodiversity)
+# Designed to analyze data for Barbo et al., 2022 (Canadian Journal of Zoology)
 ##########################################################################################
 # Felipe G. Grazziotin - fgrazziotin@gmail.com
 ##########################################################################################
